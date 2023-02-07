@@ -1,0 +1,2258 @@
+[{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ac0"
+  },
+  "#": 1,
+  "Name": "Vampire Survivors",
+  "Release": "10/1/20",
+  "TotalRating": 132965,
+  "Rating": 97.36
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ac1"
+  },
+  "#": 2,
+  "Name": "Stray",
+  "Release": "7/1/19",
+  "TotalRating": 85865,
+  "Rating": 95.8
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ac2"
+  },
+  "#": 3,
+  "Name": "Entropy : Zero 2",
+  "Release": "8/1/20",
+  "TotalRating": 11522,
+  "Rating": "95.53"
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ac3"
+  },
+  "#": 4,
+  "Name": "PowerWash Simulator",
+  "Release": "7/1/14",
+  "TotalRating": 27882,
+  "Rating": 95.41
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ac4"
+  },
+  "#": 5,
+  "Name": "God of War",
+  "Release": "1/1/14",
+  "TotalRating": 63619,
+  "Rating": 95.3
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ac5"
+  },
+  "#": 6,
+  "Name": "Neon White",
+  "Release": "6/1/16",
+  "TotalRating": 6912,
+  "Rating": 94.8
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ac6"
+  },
+  "#": 7,
+  "Name": "Marvel’s Spider-Man Remastered",
+  "Release": "8/1/12",
+  "TotalRating": 41090,
+  "Rating": 94.65
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ac7"
+  },
+  "#": 8,
+  "Name": "The Looker",
+  "Release": "6/1/17",
+  "TotalRating": 8576,
+  "Rating": 94.55
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ac8"
+  },
+  "#": 9,
+  "Name": "Dorfromantik",
+  "Release": "4/1/28",
+  "TotalRating": 17348,
+  "Rating": 94.49
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ac9"
+  },
+  "#": 10,
+  "Name": "Wobbledogs",
+  "Release": "3/1/15",
+  "TotalRating": 5017,
+  "Rating": 94.35
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7aca"
+  },
+  "#": 11,
+  "Name": "Persona 5 Royal",
+  "Release": "10/1/21",
+  "TotalRating": 10596,
+  "Rating": 94.34
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7acb"
+  },
+  "#": 12,
+  "Name": "CULTIC",
+  "Release": "10/1/13",
+  "TotalRating": 2205,
+  "Rating": 94.3
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7acc"
+  },
+  "#": 13,
+  "Name": "Teardown",
+  "Release": "4/1/21",
+  "TotalRating": 52545,
+  "Rating": 94.25
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7acd"
+  },
+  "#": 14,
+  "Name": "Ib",
+  "Release": "4/1/11",
+  "TotalRating": 1842,
+  "Rating": 94.07
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ace"
+  },
+  "#": 15,
+  "Name": "Metal: Hellsinger",
+  "Release": "9/1/15",
+  "TotalRating": 5264,
+  "Rating": 93.94
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7acf"
+  },
+  "#": 16,
+  "Name": "Patrick's Parabox",
+  "Release": "3/1/29",
+  "TotalRating": 1524,
+  "Rating": 93.79
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ad0"
+  },
+  "#": 17,
+  "Name": "Half-Life 2: VR Mod",
+  "Release": "9/1/16",
+  "TotalRating": 2906,
+  "Rating": 93.78
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ad1"
+  },
+  "#": 18,
+  "Name": "The Planet Crafter",
+  "Release": "3/1/24",
+  "TotalRating": 14872,
+  "Rating": 93.7
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ad2"
+  },
+  "#": 19,
+  "Name": "Dungeon Munchies",
+  "Release": "7/1/27",
+  "TotalRating": 5187,
+  "Rating": 93.7
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ad3"
+  },
+  "#": 20,
+  "Name": "Stacklands",
+  "Release": "4/1/08",
+  "TotalRating": 11318,
+  "Rating": 93.68
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ad4"
+  },
+  "#": 21,
+  "Name": "Trombone Champ",
+  "Release": "9/1/16",
+  "TotalRating": 2874,
+  "Rating": 93.52
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ad5"
+  },
+  "#": 22,
+  "Name": "SuchArt!",
+  "Release": "10/1/13",
+  "TotalRating": 2815,
+  "Rating": 93.52
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ad6"
+  },
+  "#": 23,
+  "Name": "枝江畔之梦",
+  "Release": "1/1/27",
+  "TotalRating": 1395,
+  "Rating": 93.39
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ad7"
+  },
+  "#": 24,
+  "Name": "Sucker for Love",
+  "Release": "1/1/20",
+  "TotalRating": 1776,
+  "Rating": 93.33
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ad8"
+  },
+  "#": 25,
+  "Name": "Monster Prom 3: Monster Roadtrip",
+  "Release": "10/1/21",
+  "TotalRating": 1142,
+  "Rating": 93.3
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ad9"
+  },
+  "#": 26,
+  "Name": "Placid Plastic Duck Simulator",
+  "Release": "7/1/06",
+  "TotalRating": 2204,
+  "Rating": 93.27
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ada"
+  },
+  "#": 27,
+  "Name": "Will You Snail?",
+  "Release": "3/1/09",
+  "TotalRating": 1900,
+  "Rating": 93.2
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7adb"
+  },
+  "#": 28,
+  "Name": "Downfall - A Slay the Spire Fan Expansion",
+  "Release": "3/1/25",
+  "TotalRating": 2025,
+  "Rating": 93.13
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7adc"
+  },
+  "#": 29,
+  "Name": "At Home Alone Final",
+  "Release": "1/1/01",
+  "TotalRating": 3342,
+  "Rating": 93.11
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7add"
+  },
+  "#": 30,
+  "Name": "The Case of the Golden Idol",
+  "Release": "10/1/13",
+  "TotalRating": 1021,
+  "Rating": 93.1
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ade"
+  },
+  "#": 31,
+  "Name": "Cafe Stella",
+  "Release": "3/1/25",
+  "TotalRating": 1681,
+  "Rating": 93.01
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7adf"
+  },
+  "#": 32,
+  "Name": "Bugsnax",
+  "Release": "4/1/28",
+  "TotalRating": 2047,
+  "Rating": 92.99
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ae0"
+  },
+  "#": 33,
+  "Name": "A Building Full of Cats",
+  "Release": "7/1/07",
+  "TotalRating": 1040,
+  "Rating": 92.98
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ae1"
+  },
+  "#": 34,
+  "Name": "月に寄りそう乙女の作法",
+  "Release": "6/1/17",
+  "TotalRating": 1407,
+  "Rating": 92.97
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ae2"
+  },
+  "#": 35,
+  "Name": "怠惰的怪獸公主不想工作",
+  "Release": "6/1/22",
+  "TotalRating": 2915,
+  "Rating": 92.94
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ae3"
+  },
+  "#": 36,
+  "Name": "DAVE THE DIVER",
+  "Release": "10/1/27",
+  "TotalRating": 3037,
+  "Rating": 92.89
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ae4"
+  },
+  "#": 37,
+  "Name": "Brotato",
+  "Release": "9/1/27",
+  "TotalRating": 9087,
+  "Rating": 92.84
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ae5"
+  },
+  "#": 38,
+  "Name": "FreshWomen - Season 1",
+  "Release": "8/1/19",
+  "TotalRating": 5327,
+  "Rating": 92.79
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ae6"
+  },
+  "#": 39,
+  "Name": "Nightmare of Decay",
+  "Release": "5/1/03",
+  "TotalRating": 2072,
+  "Rating": 92.64
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ae7"
+  },
+  "#": 40,
+  "Name": "Disney Dreamlight Valley",
+  "Release": "9/1/06",
+  "TotalRating": 6558,
+  "Rating": 92.63
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ae8"
+  },
+  "#": 41,
+  "Name": "NEEDY GIRL OVERDOSE",
+  "Release": "1/1/21",
+  "TotalRating": 15651,
+  "Rating": 92.55
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ae9"
+  },
+  "#": 42,
+  "Name": "Cosmoteer: Starship Architect & Commander",
+  "Release": "10/1/24",
+  "TotalRating": 2930,
+  "Rating": 92.47
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7aea"
+  },
+  "#": 43,
+  "Name": "Monument Valley",
+  "Release": "7/1/12",
+  "TotalRating": 862,
+  "Rating": 92.46
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7aeb"
+  },
+  "#": 44,
+  "Name": "Soulstone Survivors: Prologue",
+  "Release": "8/1/26",
+  "TotalRating": 3552,
+  "Rating": 92.39
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7aec"
+  },
+  "#": 45,
+  "Name": "Dialtown: Phone Dating Sim",
+  "Release": "2/1/14",
+  "TotalRating": 751,
+  "Rating": 92.38
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7aed"
+  },
+  "#": 46,
+  "Name": "PlateUp!",
+  "Release": "8/1/04",
+  "TotalRating": 5575,
+  "Rating": 92.31
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7aee"
+  },
+  "#": 47,
+  "Name": "Symphony of War: The Nephilim Saga",
+  "Release": "6/1/10",
+  "TotalRating": 4839,
+  "Rating": 92.3
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7aef"
+  },
+  "#": 48,
+  "Name": "Animal Revolt Battle Simulator",
+  "Release": "4/1/15",
+  "TotalRating": 3599,
+  "Rating": 92.29
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7af0"
+  },
+  "#": 49,
+  "Name": "SIGNALIS",
+  "Release": "10/1/27",
+  "TotalRating": 1891,
+  "Rating": 92.23
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7af1"
+  },
+  "#": 50,
+  "Name": "Raft",
+  "Release": "6/1/20",
+  "TotalRating": 214618,
+  "Rating": 92.21
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7af2"
+  },
+  "#": 51,
+  "Name": "Slime Rancher 2",
+  "Release": "9/1/22",
+  "TotalRating": 12082,
+  "Rating": 92.19
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7af3"
+  },
+  "#": 52,
+  "Name": "COMPOUND",
+  "Release": "7/1/19",
+  "TotalRating": 1504,
+  "Rating": 92.17
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7af4"
+  },
+  "#": 53,
+  "Name": "Dinkum",
+  "Release": "7/1/14",
+  "TotalRating": 10285,
+  "Rating": 92.16
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7af5"
+  },
+  "#": 54,
+  "Name": "Tiny Rogues",
+  "Release": "9/1/23",
+  "TotalRating": 1113,
+  "Rating": 92.13
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7af6"
+  },
+  "#": 55,
+  "Name": "Aperture Desk Job",
+  "Release": "3/1/01",
+  "TotalRating": 14620,
+  "Rating": 92.1
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7af7"
+  },
+  "#": 56,
+  "Name": "POSTAL Brain Damaged",
+  "Release": "6/1/09",
+  "TotalRating": 3358,
+  "Rating": 92.1
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7af8"
+  },
+  "#": 57,
+  "Name": "Lost in Play",
+  "Release": "8/1/10",
+  "TotalRating": 1049,
+  "Rating": 92.09
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7af9"
+  },
+  "#": 58,
+  "Name": "SANABI",
+  "Release": "6/1/20",
+  "TotalRating": 1707,
+  "Rating": 92.06
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7afa"
+  },
+  "#": 59,
+  "Name": "Retrowave",
+  "Release": "5/1/07",
+  "TotalRating": 8713,
+  "Rating": 92.04
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7afb"
+  },
+  "#": 60,
+  "Name": "10 Minutes Till Dawn",
+  "Release": "5/1/11",
+  "TotalRating": 4141,
+  "Rating": 92.04
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7afc"
+  },
+  "#": 61,
+  "Name": "Supraland Six Inches Under",
+  "Release": "1/1/14",
+  "TotalRating": 1812,
+  "Rating": 92.01
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7afd"
+  },
+  "#": 62,
+  "Name": "Tinykin",
+  "Release": "8/1/30",
+  "TotalRating": 679,
+  "Rating": 91.97
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7afe"
+  },
+  "#": 63,
+  "Name": "POPGOES Arcade",
+  "Release": "7/1/01",
+  "TotalRating": 879,
+  "Rating": 91.92
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7aff"
+  },
+  "#": 64,
+  "Name": "Not For Broadcast",
+  "Release": "1/1/25",
+  "TotalRating": 7837,
+  "Rating": 91.84
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b00"
+  },
+  "#": 65,
+  "Name": "Strange Horticulture",
+  "Release": "1/1/21",
+  "TotalRating": 4577,
+  "Rating": 91.82
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b01"
+  },
+  "#": 66,
+  "Name": "Boneraiser Minions",
+  "Release": "8/1/05",
+  "TotalRating": 1356,
+  "Rating": 91.82
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b02"
+  },
+  "#": 67,
+  "Name": "Save Room - Organization Puzzle",
+  "Release": "4/1/28",
+  "TotalRating": 1049,
+  "Rating": 91.75
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b03"
+  },
+  "#": 68,
+  "Name": "The Upturned",
+  "Release": "3/1/23",
+  "TotalRating": 459,
+  "Rating": 91.74
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b04"
+  },
+  "#": 69,
+  "Name": "Against the Storm",
+  "Release": "11/1/01",
+  "TotalRating": 1887,
+  "Rating": 91.7
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b05"
+  },
+  "#": 70,
+  "Name": "Sonic Frontiers",
+  "Release": "11/1/08",
+  "TotalRating": 7636,
+  "Rating": 91.69
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b06"
+  },
+  "#": 71,
+  "Name": "ASTLIBRA ～生きた証～ Revision",
+  "Release": "10/1/13",
+  "TotalRating": 2020,
+  "Rating": 91.69
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b07"
+  },
+  "#": 72,
+  "Name": "Lily's Well",
+  "Release": "1/1/04",
+  "TotalRating": 1157,
+  "Rating": 91.66
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b08"
+  },
+  "#": 73,
+  "Name": "Outcore",
+  "Release": "9/1/26",
+  "TotalRating": 1870,
+  "Rating": 91.61
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b09"
+  },
+  "#": 74,
+  "Name": "Frog Detective 3: Corruption at Cowboy County",
+  "Release": "10/1/27",
+  "TotalRating": 454,
+  "Rating": 91.52
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b0a"
+  },
+  "#": 75,
+  "Name": "Love Delivery",
+  "Release": "5/1/30",
+  "TotalRating": 1753,
+  "Rating": 91.51
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b0b"
+  },
+  "#": 76,
+  "Name": "Leap of Faith",
+  "Release": "2/1/11",
+  "TotalRating": 853,
+  "Rating": 91.51
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b0c"
+  },
+  "#": 77,
+  "Name": "Beacon Pines",
+  "Release": "9/1/22",
+  "TotalRating": 729,
+  "Rating": 91.47
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b0d"
+  },
+  "#": 78,
+  "Name": "Judgment",
+  "Release": "9/1/14",
+  "TotalRating": 2278,
+  "Rating": 91.4
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b0e"
+  },
+  "#": 79,
+  "Name": "Error143",
+  "Release": "7/1/26",
+  "TotalRating": 1108,
+  "Rating": 91.4
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b0f"
+  },
+  "#": 80,
+  "Name": "Farmer Against Potatoes Idle",
+  "Release": "8/1/25",
+  "TotalRating": 1531,
+  "Rating": 91.36
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b10"
+  },
+  "#": 81,
+  "Name": "Prodeus",
+  "Release": "9/1/23",
+  "TotalRating": 4369,
+  "Rating": 91.32
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b11"
+  },
+  "#": 82,
+  "Name": "乡村狂想曲",
+  "Release": "10/1/05",
+  "TotalRating": 2210,
+  "Rating": 91.32
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b12"
+  },
+  "#": 83,
+  "Name": "Acquitted",
+  "Release": "5/1/02",
+  "TotalRating": 744,
+  "Rating": 91.31
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b13"
+  },
+  "#": 84,
+  "Name": "Klonoa Phantasy Reverie Series",
+  "Release": "7/1/07",
+  "TotalRating": 977,
+  "Rating": 91.29
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b14"
+  },
+  "#": 85,
+  "Name": "BROK the InvestiGator",
+  "Release": "8/1/26",
+  "TotalRating": 499,
+  "Rating": 91.28
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b15"
+  },
+  "#": 86,
+  "Name": "Spaceflight Simulator",
+  "Release": "2/1/18",
+  "TotalRating": 1824,
+  "Rating": 91.2
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b16"
+  },
+  "#": 87,
+  "Name": "The Stanley Parable: Ultra Deluxe",
+  "Release": "4/1/27",
+  "TotalRating": 15328,
+  "Rating": 91.19
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b17"
+  },
+  "#": 88,
+  "Name": "Capybara Spa",
+  "Release": "3/1/14",
+  "TotalRating": 758,
+  "Rating": 91.16
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b18"
+  },
+  "#": 89,
+  "Name": "Her New Memory",
+  "Release": "2/1/08",
+  "TotalRating": 2834,
+  "Rating": 91.07
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b19"
+  },
+  "#": 90,
+  "Name": "Treasure of Nadia",
+  "Release": "2/1/16",
+  "TotalRating": 3503,
+  "Rating": 91.04
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b1a"
+  },
+  "#": 91,
+  "Name": "A Taste of the Past",
+  "Release": "3/1/11",
+  "TotalRating": 643,
+  "Rating": 91
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b1b"
+  },
+  "#": 92,
+  "Name": "I Was a Teenage Exocolonist",
+  "Release": "8/1/25",
+  "TotalRating": 827,
+  "Rating": 90.97
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b1c"
+  },
+  "#": 93,
+  "Name": "daydream 白日夢",
+  "Release": "3/1/02",
+  "TotalRating": 425,
+  "Rating": 90.93
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b1d"
+  },
+  "#": 94,
+  "Name": "Tribal Hunter",
+  "Release": "8/1/22",
+  "TotalRating": 896,
+  "Rating": 90.82
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b1e"
+  },
+  "#": 95,
+  "Name": "所向之未来 - Towards Future",
+  "Release": "2/1/18",
+  "TotalRating": 358,
+  "Rating": 90.8
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b1f"
+  },
+  "#": 96,
+  "Name": "Ever Seen A Cat?",
+  "Release": "1/1/18",
+  "TotalRating": 331,
+  "Rating": 90.79
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b20"
+  },
+  "#": 97,
+  "Name": "Cult of the Lamb",
+  "Release": "8/1/11",
+  "TotalRating": 32807,
+  "Rating": 90.78
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b21"
+  },
+  "#": 98,
+  "Name": "Cave Crawler",
+  "Release": "1/1/23",
+  "TotalRating": 2267,
+  "Rating": 90.78
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b22"
+  },
+  "#": 99,
+  "Name": "A Castle Full of Cats",
+  "Release": "11/1/09",
+  "TotalRating": 403,
+  "Rating": 90.75
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b23"
+  },
+  "#": 100,
+  "Name": "REFLEXIA Prototype ver.",
+  "Release": "8/1/31",
+  "TotalRating": 642,
+  "Rating": 90.59
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b24"
+  },
+  "#": 101,
+  "Name": "Resonance of the Ocean",
+  "Release": "7/1/08",
+  "TotalRating": 476,
+  "Rating": 90.59
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b25"
+  },
+  "#": 102,
+  "Name": "Flatworld",
+  "Release": "4/1/28",
+  "TotalRating": 699,
+  "Rating": 90.58
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b26"
+  },
+  "#": 103,
+  "Name": "FAITH",
+  "Release": "10/1/21",
+  "TotalRating": 1056,
+  "Rating": 90.53
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b27"
+  },
+  "#": 104,
+  "Name": "Magical Girl Celesphonia",
+  "Release": "5/1/07",
+  "TotalRating": 1155,
+  "Rating": 90.51
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b28"
+  },
+  "#": 105,
+  "Name": "Last Command",
+  "Release": "10/1/25",
+  "TotalRating": 590,
+  "Rating": 90.51
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b29"
+  },
+  "#": 106,
+  "Name": "Shadow Burglar",
+  "Release": "3/1/01",
+  "TotalRating": 527,
+  "Rating": 90.49
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b2a"
+  },
+  "#": 107,
+  "Name": "Urbek City Builder: Prologue",
+  "Release": "3/1/10",
+  "TotalRating": 1216,
+  "Rating": 90.48
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b2b"
+  },
+  "#": 108,
+  "Name": "Instruments of Destruction",
+  "Release": "3/1/02",
+  "TotalRating": 583,
+  "Rating": 90.46
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b2c"
+  },
+  "#": 109,
+  "Name": "《文字遊戲》",
+  "Release": "1/1/21",
+  "TotalRating": 4281,
+  "Rating": 90.43
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b2d"
+  },
+  "#": 110,
+  "Name": "Dungeon Alchemist",
+  "Release": "3/1/31",
+  "TotalRating": 1129,
+  "Rating": 90.39
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b2e"
+  },
+  "#": 111,
+  "Name": "click to ten",
+  "Release": "3/1/09",
+  "TotalRating": 1701,
+  "Rating": 90.37
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b2f"
+  },
+  "#": 112,
+  "Name": "Turbo Overkill",
+  "Release": "4/1/22",
+  "TotalRating": 1188,
+  "Rating": 90.36
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b30"
+  },
+  "#": 113,
+  "Name": "Citizen Sleeper",
+  "Release": "5/1/05",
+  "TotalRating": 2130,
+  "Rating": 90.29
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b31"
+  },
+  "#": 114,
+  "Name": "Freedom Planet 2",
+  "Release": "9/1/13",
+  "TotalRating": 854,
+  "Rating": 90.29
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b32"
+  },
+  "#": 115,
+  "Name": "How Fish Is Made",
+  "Release": "1/1/14",
+  "TotalRating": 1520,
+  "Rating": 90.28
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b33"
+  },
+  "#": 116,
+  "Name": "Linelith",
+  "Release": "5/1/19",
+  "TotalRating": 306,
+  "Rating": 90.28
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b34"
+  },
+  "#": 117,
+  "Name": "Seal World",
+  "Release": "4/1/01",
+  "TotalRating": 254,
+  "Rating": 90.25
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b35"
+  },
+  "#": 118,
+  "Name": "Roadwarden",
+  "Release": "9/1/12",
+  "TotalRating": 684,
+  "Rating": 90.23
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b36"
+  },
+  "#": 119,
+  "Name": "Sudocats",
+  "Release": "3/1/14",
+  "TotalRating": 252,
+  "Rating": 90.23
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b37"
+  },
+  "#": 120,
+  "Name": "Nightmare Reaper",
+  "Release": "3/1/28",
+  "TotalRating": 2564,
+  "Rating": 90.21
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b38"
+  },
+  "#": 121,
+  "Name": "Cut",
+  "Release": "1/1/15",
+  "TotalRating": 602,
+  "Rating": 90.17
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b39"
+  },
+  "#": 122,
+  "Name": "TYRONE vs COPS",
+  "Release": "2/1/12",
+  "TotalRating": 1161,
+  "Rating": 90.16
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b3a"
+  },
+  "#": 123,
+  "Name": "梦魇：无归 Nightmare without return",
+  "Release": "9/1/30",
+  "TotalRating": 486,
+  "Rating": 90.15
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b3b"
+  },
+  "#": 124,
+  "Name": "恋爱绮谭 不存在的真相",
+  "Release": "10/1/28",
+  "TotalRating": 633,
+  "Rating": 90.12
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b3c"
+  },
+  "#": 125,
+  "Name": "The Lost Dachshund",
+  "Release": "5/1/17",
+  "TotalRating": 443,
+  "Rating": 90.12
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b3d"
+  },
+  "#": 126,
+  "Name": "Ex-Zodiac",
+  "Release": "7/1/21",
+  "TotalRating": 357,
+  "Rating": 90.09
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b3e"
+  },
+  "#": 127,
+  "Name": "Nova Lands: Emilia's Mission",
+  "Release": "10/1/17",
+  "TotalRating": 643,
+  "Rating": 90.06
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b3f"
+  },
+  "#": 128,
+  "Name": "IronWolf VR",
+  "Release": "4/1/12",
+  "TotalRating": 979,
+  "Rating": 90.05
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b40"
+  },
+  "#": 129,
+  "Name": "Gun Devil",
+  "Release": "8/1/02",
+  "TotalRating": 641,
+  "Rating": 90.05
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b41"
+  },
+  "#": 130,
+  "Name": "Hook 2",
+  "Release": "6/1/29",
+  "TotalRating": 262,
+  "Rating": 90.04
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b42"
+  },
+  "#": 131,
+  "Name": "Shredders",
+  "Release": "3/1/16",
+  "TotalRating": 1000,
+  "Rating": 89.99
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b43"
+  },
+  "#": 132,
+  "Name": "The Complex: Found Footage",
+  "Release": "8/1/18",
+  "TotalRating": 3346,
+  "Rating": 89.98
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b44"
+  },
+  "#": 133,
+  "Name": "My Sticker Book",
+  "Release": "8/1/24",
+  "TotalRating": 481,
+  "Rating": 89.93
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b45"
+  },
+  "#": 134,
+  "Name": "Weed Shop 3",
+  "Release": "4/1/21",
+  "TotalRating": 2649,
+  "Rating": 89.9
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b46"
+  },
+  "#": 135,
+  "Name": "Five nights at Floppa",
+  "Release": "2/1/18",
+  "TotalRating": 758,
+  "Rating": 89.9
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b47"
+  },
+  "#": 136,
+  "Name": "Kalinur",
+  "Release": "8/1/18",
+  "TotalRating": 319,
+  "Rating": 89.9
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b48"
+  },
+  "#": 137,
+  "Name": "Atelier Sophie 2: The Alchemist of the Mysterious Dream",
+  "Release": "2/1/25",
+  "TotalRating": 1452,
+  "Rating": 89.89
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b49"
+  },
+  "#": 138,
+  "Name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+  "Release": "6/1/16",
+  "TotalRating": 7875,
+  "Rating": 89.87
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b4a"
+  },
+  "#": 139,
+  "Name": "けものフレンズ Cellien May Cry",
+  "Release": "5/1/01",
+  "TotalRating": 599,
+  "Rating": 89.86
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b4b"
+  },
+  "#": 140,
+  "Name": "Return to Monkey Island",
+  "Release": "9/1/19",
+  "TotalRating": 5415,
+  "Rating": 89.84
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b4c"
+  },
+  "#": 141,
+  "Name": "瘟疫清零计划 Project Zero",
+  "Release": "9/1/11",
+  "TotalRating": 1470,
+  "Rating": 89.84
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b4d"
+  },
+  "#": 142,
+  "Name": "LEGO® Star Wars™: The Skywalker Saga",
+  "Release": "4/1/05",
+  "TotalRating": 31181,
+  "Rating": 89.82
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b4e"
+  },
+  "#": 143,
+  "Name": "Card Survival: Tropical Island",
+  "Release": "9/1/16",
+  "TotalRating": 409,
+  "Rating": 89.78
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b4f"
+  },
+  "#": 144,
+  "Name": "奇怪的RPG",
+  "Release": "10/1/01",
+  "TotalRating": 1681,
+  "Rating": 89.77
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b50"
+  },
+  "#": 145,
+  "Name": "Jaded",
+  "Release": "4/1/29",
+  "TotalRating": 402,
+  "Rating": 89.7
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b51"
+  },
+  "#": 146,
+  "Name": "东方秘剑录",
+  "Release": "2/1/14",
+  "TotalRating": 419,
+  "Rating": 89.69
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b52"
+  },
+  "#": 147,
+  "Name": "ELDEN RING",
+  "Release": "2/1/24",
+  "TotalRating": 544062,
+  "Rating": 89.67
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b53"
+  },
+  "#": 148,
+  "Name": "Spark the Electric Jester 3",
+  "Release": "8/1/14",
+  "TotalRating": 469,
+  "Rating": 89.64
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b54"
+  },
+  "#": 149,
+  "Name": "Iron Lung",
+  "Release": "3/1/10",
+  "TotalRating": 4564,
+  "Rating": 89.63
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b55"
+  },
+  "#": 150,
+  "Name": "Owinka Shooter",
+  "Release": "7/1/23",
+  "TotalRating": 502,
+  "Rating": 89.62
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b56"
+  },
+  "#": 151,
+  "Name": "Quaver",
+  "Release": "8/1/19",
+  "TotalRating": 10160,
+  "Rating": 89.59
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b57"
+  },
+  "#": 152,
+  "Name": "Zodiacats",
+  "Release": "1/1/21",
+  "TotalRating": 206,
+  "Rating": 89.57
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b58"
+  },
+  "#": 153,
+  "Name": "HYPER DEMON",
+  "Release": "9/1/19",
+  "TotalRating": 1007,
+  "Rating": 89.51
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b59"
+  },
+  "#": 154,
+  "Name": "DRAINUS",
+  "Release": "5/1/22",
+  "TotalRating": 474,
+  "Rating": 89.51
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b5a"
+  },
+  "#": 155,
+  "Name": "20 Minutes Till Dawn",
+  "Release": "6/1/08",
+  "TotalRating": 14720,
+  "Rating": 89.5
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b5b"
+  },
+  "#": 156,
+  "Name": "Hana no No ni Saku Utakata no",
+  "Release": "4/1/22",
+  "TotalRating": 344,
+  "Rating": 89.46
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b5c"
+  },
+  "#": 157,
+  "Name": "Railbound",
+  "Release": "9/1/06",
+  "TotalRating": 416,
+  "Rating": 89.45
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b5d"
+  },
+  "#": 158,
+  "Name": "Vault of the Void",
+  "Release": "10/1/04",
+  "TotalRating": 1794,
+  "Rating": 89.42
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b5e"
+  },
+  "#": 159,
+  "Name": "Baldi's Basics Classic Remastered",
+  "Release": "10/1/21",
+  "TotalRating": 1457,
+  "Rating": 89.42
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b5f"
+  },
+  "#": 160,
+  "Name": "Havsala: Into the Soul Palace",
+  "Release": "6/1/21",
+  "TotalRating": 413,
+  "Rating": 89.42
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b60"
+  },
+  "#": 161,
+  "Name": "TUNIC",
+  "Release": "3/1/16",
+  "TotalRating": 5463,
+  "Rating": 89.41
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b61"
+  },
+  "#": 162,
+  "Name": "Ravenous Devils",
+  "Release": "4/1/29",
+  "TotalRating": 4773,
+  "Rating": 89.41
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b62"
+  },
+  "#": 163,
+  "Name": "Kinkoi Golden Time",
+  "Release": "7/1/15",
+  "TotalRating": 261,
+  "Rating": 89.4
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b63"
+  },
+  "#": 164,
+  "Name": "Wylde Flowers",
+  "Release": "9/1/20",
+  "TotalRating": 428,
+  "Rating": 89.39
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b64"
+  },
+  "#": 165,
+  "Name": "Lost Judgment",
+  "Release": "9/1/14",
+  "TotalRating": 1127,
+  "Rating": 89.37
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b65"
+  },
+  "#": 166,
+  "Name": "Rock Life: The Rock Simulator",
+  "Release": "7/1/21",
+  "TotalRating": 1177,
+  "Rating": 89.34
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b66"
+  },
+  "#": 167,
+  "Name": "DOUKYUUSEI",
+  "Release": "4/1/15",
+  "TotalRating": 1020,
+  "Rating": 89.32
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b67"
+  },
+  "#": 168,
+  "Name": "The Testing Chamber",
+  "Release": "3/1/28",
+  "TotalRating": 405,
+  "Rating": 89.32
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b68"
+  },
+  "#": 169,
+  "Name": "Seraph's Last Stand",
+  "Release": "3/1/23",
+  "TotalRating": 2180,
+  "Rating": 89.31
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b69"
+  },
+  "#": 170,
+  "Name": "Tinyfolks",
+  "Release": "6/1/01",
+  "TotalRating": 616,
+  "Rating": 89.3
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b6a"
+  },
+  "#": 171,
+  "Name": "The Past Within",
+  "Release": "11/1/02",
+  "TotalRating": 3550,
+  "Rating": 89.29
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b6b"
+  },
+  "#": 172,
+  "Name": "Lunacid",
+  "Release": "3/1/15",
+  "TotalRating": 676,
+  "Rating": 89.28
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b6c"
+  },
+  "#": 173,
+  "Name": "Shattered Pixel Dungeon",
+  "Release": "3/1/23",
+  "TotalRating": 596,
+  "Rating": 89.26
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b6d"
+  },
+  "#": 174,
+  "Name": "Tree Simulator 2023",
+  "Release": "4/1/01",
+  "TotalRating": 413,
+  "Rating": 89.22
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b6e"
+  },
+  "#": 175,
+  "Name": "Shadows Over Loathing",
+  "Release": "11/1/11",
+  "TotalRating": 306,
+  "Rating": 89.2
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b6f"
+  },
+  "#": 176,
+  "Name": "Freshly Frosted",
+  "Release": "6/1/10",
+  "TotalRating": 161,
+  "Rating": 89.19
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b70"
+  },
+  "#": 177,
+  "Name": "Endling - Extinction is Forever",
+  "Release": "7/1/19",
+  "TotalRating": 524,
+  "Rating": 89.17
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b71"
+  },
+  "#": 178,
+  "Name": "Last Call BBS",
+  "Release": "8/1/03",
+  "TotalRating": 491,
+  "Rating": 89.16
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b72"
+  },
+  "#": 179,
+  "Name": "Lunistice",
+  "Release": "11/1/10",
+  "TotalRating": 225,
+  "Rating": 89.15
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b73"
+  },
+  "#": 180,
+  "Name": "DEATH STRANDING DIRECTOR'S CUT",
+  "Release": "3/1/30",
+  "TotalRating": 7246,
+  "Rating": 89.13
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b74"
+  },
+  "#": 181,
+  "Name": "GNOSIA",
+  "Release": "1/1/23",
+  "TotalRating": 1483,
+  "Rating": 89.12
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b75"
+  },
+  "#": 182,
+  "Name": "Little Noah: Scion of Paradise",
+  "Release": "6/1/28",
+  "TotalRating": 900,
+  "Rating": 89.1
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b76"
+  },
+  "#": 183,
+  "Name": "CaseCracker",
+  "Release": "5/1/19",
+  "TotalRating": 969,
+  "Rating": 89.09
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b77"
+  },
+  "#": 184,
+  "Name": "The Legend of Heroes: Trails from Zero",
+  "Release": "9/1/27",
+  "TotalRating": 351,
+  "Rating": 89.08
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b78"
+  },
+  "#": 185,
+  "Name": "fox soldier",
+  "Release": "4/1/15",
+  "TotalRating": 200,
+  "Rating": 89.07
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b79"
+  },
+  "#": 186,
+  "Name": "Yoiyami Dancers: Twilight Danmaku Dancers",
+  "Release": "9/1/28",
+  "TotalRating": 220,
+  "Rating": 89.06
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b7a"
+  },
+  "#": 187,
+  "Name": "Gloomwood",
+  "Release": "9/1/05",
+  "TotalRating": 2580,
+  "Rating": 89.05
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b7b"
+  },
+  "#": 188,
+  "Name": "Kiwi Clicker",
+  "Release": "7/1/29",
+  "TotalRating": 527,
+  "Rating": 89.04
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b7c"
+  },
+  "#": 189,
+  "Name": "Pulling No Punches",
+  "Release": "8/1/10",
+  "TotalRating": 277,
+  "Rating": 89.04
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b7d"
+  },
+  "#": 190,
+  "Name": "花落冬陽 Snowdreams -lost in winter-",
+  "Release": "3/1/09",
+  "TotalRating": 219,
+  "Rating": 89.04
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b7e"
+  },
+  "#": 191,
+  "Name": "The Death | Thần Trùng",
+  "Release": "9/1/15",
+  "TotalRating": 2595,
+  "Rating": 89.02
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b7f"
+  },
+  "#": 192,
+  "Name": "Escape Dungeon 2",
+  "Release": "1/1/14",
+  "TotalRating": 1081,
+  "Rating": 89.02
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b80"
+  },
+  "#": 193,
+  "Name": "Hush Hush - Only Your Love Can Save Them",
+  "Release": "8/1/22",
+  "TotalRating": 525,
+  "Rating": 89.02
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b81"
+  },
+  "#": 194,
+  "Name": "暖雪 Warm Snow",
+  "Release": "1/1/19",
+  "TotalRating": 19814,
+  "Rating": 88.95
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b82"
+  },
+  "#": 195,
+  "Name": "The Last Clockwinder",
+  "Release": "6/1/02",
+  "TotalRating": 233,
+  "Rating": 88.94
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b83"
+  },
+  "#": 196,
+  "Name": "HAYAI",
+  "Release": "5/1/19",
+  "TotalRating": 148,
+  "Rating": 88.91
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b84"
+  },
+  "#": 197,
+  "Name": "Rogue : Genesia",
+  "Release": "9/1/19",
+  "TotalRating": 2787,
+  "Rating": 88.89
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b85"
+  },
+  "#": 198,
+  "Name": "OlliOlli World",
+  "Release": "2/1/07",
+  "TotalRating": 702,
+  "Rating": 88.88
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b86"
+  },
+  "#": 199,
+  "Name": "The Spirit and the Mouse",
+  "Release": "9/1/26",
+  "TotalRating": 190,
+  "Rating": 88.88
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b87"
+  },
+  "#": 200,
+  "Name": "Ember Knights",
+  "Release": "4/1/20",
+  "TotalRating": 1261,
+  "Rating": 88.85
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b88"
+  },
+  "#": 201,
+  "Name": "Across the Obelisk",
+  "Release": "8/1/16",
+  "TotalRating": 5312,
+  "Rating": 88.84
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b89"
+  },
+  "#": 202,
+  "Name": "Athanasy",
+  "Release": "4/1/13",
+  "TotalRating": 226,
+  "Rating": 88.81
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b8a"
+  },
+  "#": 203,
+  "Name": "角斗士学院",
+  "Release": "3/1/01",
+  "TotalRating": 345,
+  "Rating": 88.76
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b8b"
+  },
+  "#": 204,
+  "Name": "Ever Seen A Cat? 2",
+  "Release": "5/1/30",
+  "TotalRating": 183,
+  "Rating": 88.73
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b8c"
+  },
+  "#": 205,
+  "Name": "Touch Some Grass",
+  "Release": "4/1/11",
+  "TotalRating": 342,
+  "Rating": 88.71
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b8d"
+  },
+  "#": 206,
+  "Name": "Soda Crisis",
+  "Release": "5/1/24",
+  "TotalRating": 2165,
+  "Rating": 88.68
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b8e"
+  },
+  "#": 207,
+  "Name": "FAR: Changing Tides",
+  "Release": "3/1/01",
+  "TotalRating": 1844,
+  "Rating": 88.68
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b8f"
+  },
+  "#": 208,
+  "Name": "Prince of Suburbia - Part 1",
+  "Release": "5/1/12",
+  "TotalRating": 548,
+  "Rating": 88.63
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b90"
+  },
+  "#": 209,
+  "Name": "Priest Simulator",
+  "Release": "10/1/06",
+  "TotalRating": 319,
+  "Rating": 88.61
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b91"
+  },
+  "#": 210,
+  "Name": "Captain of Industry",
+  "Release": "5/1/31",
+  "TotalRating": 2463,
+  "Rating": 88.59
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b92"
+  },
+  "#": 211,
+  "Name": "The Excavation of Hob's Barrow",
+  "Release": "9/1/28",
+  "TotalRating": 612,
+  "Rating": 88.57
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b93"
+  },
+  "#": 212,
+  "Name": "Little Witch in the Woods",
+  "Release": "5/1/17",
+  "TotalRating": 4799,
+  "Rating": 88.53
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b94"
+  },
+  "#": 213,
+  "Name": "ナツノカナタ",
+  "Release": "8/1/17",
+  "TotalRating": 496,
+  "Rating": 88.53
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b95"
+  },
+  "#": 214,
+  "Name": "FIND ALL 2: Middle Ages",
+  "Release": "3/1/03",
+  "TotalRating": 132,
+  "Rating": 88.53
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b96"
+  },
+  "#": 215,
+  "Name": "Yotsume God -Reunion-",
+  "Release": "2/1/16",
+  "TotalRating": 193,
+  "Rating": 88.52
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b97"
+  },
+  "#": 216,
+  "Name": "奇迹一刻 Surmount",
+  "Release": "2/1/14",
+  "TotalRating": 1311,
+  "Rating": 88.5
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b98"
+  },
+  "#": 217,
+  "Name": "Charlie in the MoistVerse of Madness",
+  "Release": "3/1/11",
+  "TotalRating": 312,
+  "Rating": 88.5
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b99"
+  },
+  "#": 218,
+  "Name": "Ten trials of Babel: The Doppelganger Maze",
+  "Release": "3/1/14",
+  "TotalRating": 2490,
+  "Rating": 88.49
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b9a"
+  },
+  "#": 219,
+  "Name": "Lucy Dreaming",
+  "Release": "10/1/18",
+  "TotalRating": 130,
+  "Rating": 88.48
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b9b"
+  },
+  "#": 220,
+  "Name": "Core Keeper",
+  "Release": "3/1/08",
+  "TotalRating": 16206,
+  "Rating": 88.43
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b9c"
+  },
+  "#": 221,
+  "Name": "Smithworks",
+  "Release": "6/1/17",
+  "TotalRating": 1143,
+  "Rating": 88.38
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b9d"
+  },
+  "#": 222,
+  "Name": "怕不怕趴喵霸霸 Ghost Party Nyanbaba",
+  "Release": "1/1/22",
+  "TotalRating": 186,
+  "Rating": 88.37
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b9e"
+  },
+  "#": 223,
+  "Name": "VOCÊ É UM DEFUNTO MECÂNICO",
+  "Release": "1/1/10",
+  "TotalRating": 238,
+  "Rating": 88.35
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7b9f"
+  },
+  "#": 224,
+  "Name": "Haiku the Robot",
+  "Release": "4/1/28",
+  "TotalRating": 1087,
+  "Rating": 88.33
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ba0"
+  },
+  "#": 225,
+  "Name": "Evil Nun: The Broken Mask",
+  "Release": "10/1/31",
+  "TotalRating": 270,
+  "Rating": 88.33
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ba1"
+  },
+  "#": 226,
+  "Name": "Tile Cities",
+  "Release": "5/1/05",
+  "TotalRating": 285,
+  "Rating": 88.31
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ba2"
+  },
+  "#": 227,
+  "Name": "Her World",
+  "Release": "10/1/06",
+  "TotalRating": 183,
+  "Rating": 88.3
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ba3"
+  },
+  "#": 228,
+  "Name": "Breeze",
+  "Release": "8/1/05",
+  "TotalRating": 251,
+  "Rating": 88.27
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ba4"
+  },
+  "#": 229,
+  "Name": "A Story Beside",
+  "Release": "5/1/24",
+  "TotalRating": 182,
+  "Rating": 88.27
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ba5"
+  },
+  "#": 230,
+  "Name": "打工吧！天使酱 ~天使在魔界的劳改生活~",
+  "Release": "7/1/22",
+  "TotalRating": 143,
+  "Rating": 88.26
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ba6"
+  },
+  "#": 231,
+  "Name": "Who's Lila?",
+  "Release": "2/1/24",
+  "TotalRating": 594,
+  "Rating": 88.24
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ba7"
+  },
+  "#": 232,
+  "Name": "Golden Light",
+  "Release": "3/1/11",
+  "TotalRating": 1830,
+  "Rating": 88.23
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ba8"
+  },
+  "#": 233,
+  "Name": "Circadian Dice",
+  "Release": "7/1/11",
+  "TotalRating": 384,
+  "Rating": 88.2
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7ba9"
+  },
+  "#": 234,
+  "Name": "Ctrl Alt Ego",
+  "Release": "7/1/22",
+  "TotalRating": 160,
+  "Rating": 88.19
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7baa"
+  },
+  "#": 235,
+  "Name": "東方花映塚 ～ Phantasmagoria of Flower View.",
+  "Release": "4/1/25",
+  "TotalRating": 119,
+  "Rating": 88.17
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7bab"
+  },
+  "#": 236,
+  "Name": "A=B",
+  "Release": "3/1/29",
+  "TotalRating": 367,
+  "Rating": 88.16
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7bac"
+  },
+  "#": 237,
+  "Name": "Ukraine Defense Force Tactics",
+  "Release": "6/1/29",
+  "TotalRating": 159,
+  "Rating": 88.16
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7bad"
+  },
+  "#": 238,
+  "Name": "NEBULOUS: Fleet Command",
+  "Release": "2/1/11",
+  "TotalRating": 1319,
+  "Rating": 88.15
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7bae"
+  },
+  "#": 239,
+  "Name": "Robin Morningwood Adventure",
+  "Release": "9/1/30",
+  "TotalRating": 242,
+  "Rating": 88.09
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7baf"
+  },
+  "#": 240,
+  "Name": "Syberia - The World Before",
+  "Release": "3/1/18",
+  "TotalRating": 1771,
+  "Rating": 88.07
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7bb0"
+  },
+  "#": 241,
+  "Name": "The one who pulls out the sword will be crowned king",
+  "Release": "3/1/28",
+  "TotalRating": 6593,
+  "Rating": 88.06
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7bb1"
+  },
+  "#": 242,
+  "Name": "Serious Sam: Siberian Mayhem",
+  "Release": "1/1/25",
+  "TotalRating": 2458,
+  "Rating": 88.06
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7bb2"
+  },
+  "#": 243,
+  "Name": "SuperTux",
+  "Release": "1/1/12",
+  "TotalRating": 401,
+  "Rating": 88.03
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7bb3"
+  },
+  "#": 244,
+  "Name": "Orb of Creation",
+  "Release": "3/1/31",
+  "TotalRating": 625,
+  "Rating": 88.01
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7bb4"
+  },
+  "#": 245,
+  "Name": "Deadeye Deepfake Simulacrum",
+  "Release": "10/1/13",
+  "TotalRating": 114,
+  "Rating": 88.01
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7bb5"
+  },
+  "#": 246,
+  "Name": "Countryball: Europe 1890",
+  "Release": "3/1/21",
+  "TotalRating": 153,
+  "Rating": 88
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7bb6"
+  },
+  "#": 247,
+  "Name": "Before The Night",
+  "Release": "7/1/14",
+  "TotalRating": 237,
+  "Rating": 87.99
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7bb7"
+  },
+  "#": 248,
+  "Name": "Monument Valley 2",
+  "Release": "7/1/12",
+  "TotalRating": 382,
+  "Rating": 87.95
+},{
+  "_id": {
+    "$oid": "63b9be86c59af108840f7bb9"
+  },
+  "#": 250,
+  "Name": "Shotgun King: The Final Checkmate",
+  "Release": "5/1/12",
+  "TotalRating": 2057,
+  "Rating": 87.93
+},{
+  "_id": {
+    "$oid": "63bd091ddb1beb0160b3870b"
+  },
+  "Name": "Dark Souls",
+  "Release": "2016-03-24",
+  "TotalRating": 99.87,
+  "Rating": 220709
+},{
+  "_id": {
+    "$oid": "63bd7ae52548f4242f691728"
+  },
+  "Name": "newUser Game",
+  "Release": "2023-01-10",
+  "TotalRating": 6749,
+  "Rating": 34.33
+}]

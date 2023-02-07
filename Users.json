@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "63bc083cdae72b79814a6905"
+  },
+  "username": "admin",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJEgwcWt0TDcwbHVQdHptYm0yTm8uT094Y09ubWtoV29JbUw2QkdYc1pYRnFPb3Z0NGFpNVRh",
+      "subType": "00"
+    }
+  }
+}]

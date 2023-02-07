@@ -1,0 +1,58 @@
+<div class="container" *ngIf="authService.isLoggedIn$ | async; else welcome">
+  <div class="row mt-5 mb-5">
+    <h1 class="text-center">Games</h1>
+  </div>
+  <div class="row justify-content-center">
+    <div class="col fw-bold">No.</div>
+    <div class="col-6 fw-bold">Name</div>
+    <div class="col fw-bold">Release</div>
+    <div class="col fw-bold">Total Rating</div>
+    <div class="col fw-bold">Rating</div>
+    <div class="col fw-bold" *ngIf="authService.isAdmin$ | async">
+      <!-- Edit -->
+    </div>
+    <div class="col fw-bold" *ngIf="authService.isAdmin$ | async">
+      <!-- Delete -->
+    </div>
+  </div>
+  <div class="row justify-content-center" *ngFor="let game of games; let num = index">
+    <div class="col mt-3">
+      {{ num + 1 }}
+    </div>
+    <div class="col-6 mt-3">
+      {{ game.Name }}
+    </div>
+    <div class="col mt-3">
+      {{ game.Release }}
+    </div>
+    <div class="col mt-3">
+      {{ game.TotalRating }}
+    </div>
+    <div class="col mt-3">
+      {{ game.Rating }}
+    </div>
+    <div class="col mt-3" *ngIf="authService.isAdmin$ | async">
+      <a class="btn btn-outline-warning" [routerLink]="['/update-item']" [queryParams]="{
+          _id: game._id,
+          name: game.Name,
+          release: game.Release,
+          totalRating: game.TotalRating,
+          rating: game.Rating
+        }">
+        Edit
+      </a>
+    </div>
+    <div class="col mt-3" *ngIf="authService.isAdmin$ | async">
+      <button class="btn btn-danger" (click)="delete(game._id)">Delete</button>
+    </div>
+  </div>
+</div>
+<ng-template #welcome let-user>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <h1 class="fw-bold text-center mt-5">Welcome!</h1>
+      </div>
+    </div>
+  </div>
+</ng-template>
